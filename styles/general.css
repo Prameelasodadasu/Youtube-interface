@@ -1,0 +1,22 @@
+p{
+    font-family: Roboto,Arial;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+body{
+    font-family: Roboto,arial;
+    margin: 0;
+    padding-top: 80px;
+    padding-left: 96px;
+    padding-right: 24px;
+    padding-bottom: 300px;
+    background-color: rgb(248,248,248);
+}
+a {
+    color: black;
+    text-decoration: none;
+    
+}
+a .video-author{
+    color:rgb(96,96,96)
+}
